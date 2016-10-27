@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Drums</string>
+    <string name="action_settings">Settings</string>
+    <string name="kick">Kick\nDrum</string>
+    <string name="snare">Snare\nDrum</string>
+    <string name="hihat_open">Hi-Hat\nOpen</string>
+    <string name="hihat_closed">Hi-Hat\nClosed</string>
+    <string name="crash">Crash\nCymbal</string>
+    <string name="tom">Tom\nTom </string>
+    <string name="header"> </string>
+    <string name="kick_small">Kick Drum</string>
+    <string name="snare_small">Snare Drum</string>
+    <string name="hihat_open_small">Hi-Hat Open</string>
+    <string name="hihat_closed_small">Hi-Hat Closed</string>
+    <string name="crash_small">Crash Cymbal</string>
+    <string name="tom_small">Tom Tom</string>
+    <string name="header_small"> </string>
+</resources>

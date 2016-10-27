@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ドラム</string>
+    <string name="action_settings">設定</string>
+    <string name="kick">ドラムのキック</string>
+    <string name="snare">スネアドラム</string>
+    <string name="hihat_open">ハイハット</string>
+    <string name="hihat_closed">ハイハットを閉じ</string>
+    <string name="crash">クラッシュシンバル</string>
+    <string name="tom">トムトム</string>
+    <string name="header">ボタンをタップして、ドラムを演奏</string>
+    <string name="kick_small">ドラムのキック</string>
+    <string name="snare_small">スネアドラム</string>
+    <string name="hihat_open_small">ハイハット</string>
+    <string name="hihat_closed_small">ハイハットを閉じ</string>
+    <string name="crash_small">クラッシュシンバル</string>
+    <string name="tom_small">トムトム</string>
+    <string name="header_small">ボタンをタップして、ドラムを演奏!</string>
+
+</resources>

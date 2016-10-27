@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Batteria</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="kick">Calcio Batteria</string>
+    <string name="snare">Snare Batteria</string>
+    <string name="hihat_open">Alto-Cappello Aperto</string>
+    <string name="hihat_closed">Alto-Cappello Chiuso</string>
+    <string name="crash">Piatto Crash</string>
+    <string name="tom">Tamburo Tom</string>
+    <string name="header">Toccare i pulsanti e suonare la batteria!</string>
+    <string name="kick_small">Calcio Batteria</string>
+    <string name="snare_small">Snare Batteria</string>
+    <string name="hihat_open_small">Alto-Cappello Aperto</string>
+    <string name="hihat_closed_small">Alto-Cappello Chiuso</string>
+    <string name="crash_small">Piatto Crash</string>
+    <string name="tom_small">Tamburo Tom</string>
+    <string name="header_small">Toccare i pulsanti e suonare la batteria!</string>
+</resources>
