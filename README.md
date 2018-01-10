@@ -8,6 +8,6 @@
 <h4>The Result</h4>
 <p>I was able to make a simple Android App and deploy it to the Google Play Store for free downlaod.</p>
 <hr style="background-color: #ddd; height: 80px; width: 80%; text-align: center;">
-<h3>Download It Here!</h3>
-<a href="https://play.google.com/store/apps/details?id=app.lereiver.mike.drums" target="_blank">Drums</a>
+<h3>Download It <a href="https://play.google.com/store/apps/details?id=app.lereiver.mike.drums" target="_blank">Here</a>!</h3>
+
 ![Drums App screenshot](screenshot/drums.png)
